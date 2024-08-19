@@ -1,0 +1,11 @@
+.Div {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+}
+
+.input {
+  width: 30%;
+  height: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+}
